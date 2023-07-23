@@ -1,2 +1,3 @@
 # odin-recipes
-HTML Practise
+
+This project is to practise the HTML and git commit
